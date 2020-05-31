@@ -1,0 +1,41 @@
+.info{
+    margin: 0 auto;
+    padding-top: 2.2em;
+    padding-left: 14em;
+}
+.info .avt img{
+    width: 300px;
+    height: 300px;
+    float: left;
+    padding-top: 5em;
+
+}
+
+.info .intro{
+    padding-left: 3%;
+    float: left;
+}
+
+
+h2{
+    color: brown;
+    padding: 0.5em;
+   
+}
+
+p, li{
+    color: green;
+    margin: 0.5em 0;
+}
+
+p, ul{
+    margin-left: 10%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    color: lavender;
+}

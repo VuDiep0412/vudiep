@@ -1,0 +1,27 @@
+table {
+    font-family: arial, sans-serif;
+    width: 80%;
+    padding-left: 15em;
+    padding-top: 5em;
+  }
+td {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    color: #8A0829;
+  }
+td:hover{
+    background-color: yellowgreen;
+}
+tr:nth-child(even){
+    background-color: #dddddd;
+}
+a{
+    color: #8A0829;
+    text-decoration: none;
+}
+a:hover{
+    color: #FF4000;
+}
+

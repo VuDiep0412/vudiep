@@ -1,0 +1,18 @@
+.picture{
+    padding-top: 5em;
+    padding-left: 8em;
+
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 3em;
+    color: #FF0040;
+}
+img{
+    width: 320px;
+    height: 190px;
+    padding: 1em;
+    float: left;
+}

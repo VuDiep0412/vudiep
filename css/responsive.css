@@ -1,0 +1,50 @@
+@media screen and (max-width:767px){
+    *{
+        transition: all 0.5s;
+    }
+    .navbar a{
+        margin: 0;
+        width: 100%;
+        float:none;
+        display: block;
+        border-bottom: 1px solid lightcyan;
+    }
+    .para{
+        font-size: 2em;
+        padding:0;
+    }
+    .info{
+        width:80%;
+        box-sizing: border-box;
+    }
+    .info .avt{
+        width: 90%;
+        float:none;
+    }
+    .info .avt img {
+        float: none;
+        width:90%;
+        height: auto;
+       display: block;
+    }
+    .info .intro, .picture, .info, table, .info .avt, .info .avt img{
+        margin:0 auto;
+        padding: 0;
+    }
+    .container{
+        height: 100%;
+        overflow: auto;
+    }
+    .content > img{
+        width:50%;
+        height: auto;
+    }
+    .picture img, .container>img{
+        display: block;
+        width:50%;
+        height: auto;
+        float:none;
+        margin: 0.5em auto;
+    }
+
+}
